@@ -1,1 +1,14 @@
-Testing 1 Testing 1
+In the root: 
+
+npm init (Creates package.json file)
+
+npm install express dotenv mongoose colors (Installs all the necessary backend dependencies)
+
+npm instal -D nodemon (Installs nodemon as a dev dependency)
+
+In package.json file, add the following scripts:
+
+"start": "node backend/server.js",
+"dev": "nodemon backend/server.js"
+
+that's good for the backend setup. 
