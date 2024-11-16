@@ -12,3 +12,4 @@ In package.json file, add the following scripts:
 "dev": "nodemon backend/server.js"
 
 that's good for the backend setup. 
+
