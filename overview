@@ -13,3 +13,6 @@ In package.json file, add the following scripts:
 
 that's good for the backend setup. 
 
+For the database, inside of the .env file, add the following: 
+
+MONGO_URI = copy and paste the connection string from the MONGOBD Atlas. (make sure to replace password and the collection name)
